@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+   <identifier type="local">bcpl_01632</identifier>
+   <titleInfo>
+      <title>Kinzel Springs Swinging Bridge</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>early 1900s</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1900</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>Recreational -- Footbridge connecting parts of a resort in early 1900s; replaced in 1990s after it was demolished by flood</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <note>Ownership: Blount County; Current Use: Footbridge</note>
+   <note>Address: Across Little River between Hwy 321 and Old Walland Hwy at Kinzel Springs, Walla</note>
+   <location>
+      <physicalLocation>Blount County Public Library</physicalLocation>
+   </location>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85061097">
+      <topic>Historic buildings</topic>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n81025935">Blount County (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.68724, -83.92553</coordinates>
+      </cartographics>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Blount County Historical and Architectural Inventory</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Digital Image Copyright (c) 2004. Blount County Public Library, Maryville, TN. All Rights Reserved. For permission to use, contact: Reference Department, Blount County Public Library, 508 N. Cusick Street, Maryville, TN 37804 (865-982-0982).</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_bcpl_01632</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>

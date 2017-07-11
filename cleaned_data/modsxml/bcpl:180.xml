@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+   <identifier type="local">bcpl_04012</identifier>
+   <titleInfo>
+      <title>ALCOA South Plant Office Building (NR)</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1940s</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" qualifier="approximate">1940</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>Architectural -- three story brick with handsome art deco trim, built in 1940s</abstract>
+   <abstract>Historical -- significant to the Aluminum Company's contribution to defense and war efforts in the 1940s</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <note>This structure appears on the National Historical Registry.</note>
+   <note>Ownership: Private; Current Use: Limited use as office space</note>
+   <note>Address: Hall Rd., Alcoa TN</note>
+   <location>
+      <physicalLocation>Blount County Public Library</physicalLocation>
+   </location>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85061097">
+      <topic>Historic buildings</topic>
+   </subject>
+   <subject>
+      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n80022862">Alcoa (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.78953, -83.97379</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <hierarchicalGeographic>
+         <country>United States</country>
+         <state>Tennessee</state>
+         <city>Alcoa</city>
+         <citySection>Street: Hall Road</citySection>
+      </hierarchicalGeographic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Blount County Historical and Architectural Inventory</title>
+      </titleInfo>
+   </relatedItem>
+   <accessCondition type="use and reproduction">Digital Image Copyright (c) 2004. Blount County Public Library, Maryville, TN. All Rights Reserved. For permission to use, contact: Reference Department, Blount County Public Library, 508 N. Cusick Street, Maryville, TN 37804 (865-982-0982).</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_bcpl_04012</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>
