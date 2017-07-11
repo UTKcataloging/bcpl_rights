@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
    <identifier type="local">bcpl_00392</identifier>
    <titleInfo>
       <title>Clover Hill Mill (NR)</title>
@@ -23,11 +28,13 @@
    <location>
       <physicalLocation>Blount County Public Library</physicalLocation>
    </location>
-   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85061097">
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85061097">
       <topic>Historic buildings</topic>
    </subject>
    <subject>
-      <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n81025935">Blount County (Tenn.)</geographic>
+      <geographic authority="naf"
+                  valueURI="http://id.loc.gov/authorities/names/n81025935">Blount County (Tenn.)</geographic>
       <cartographics>
          <coordinates>35.68724, -83.92553</coordinates>
       </cartographics>
@@ -45,7 +52,7 @@
          <title>Blount County Historical and Architectural Inventory</title>
       </titleInfo>
    </relatedItem>
-   <accessCondition type="use and reproduction">Digital Image Copyright (c) 2004. Blount County Public Library, Maryville, TN. All Rights Reserved. For permission to use, contact: Reference Department, Blount County Public Library, 508 N. Cusick Street, Maryville, TN 37804 (865-982-0982).</accessCondition>
+   <accessCondition type="local rights statement">Digital Image Copyright (c) 2004. Blount County Public Library, Maryville, TN. All Rights Reserved. For permission to use, contact: Reference Department, Blount County Public Library, 508 N. Cusick Street, Maryville, TN 37804 (865-982-0982).</accessCondition>
    <recordInfo>
       <recordIdentifier>record_bcpl_00392</recordIdentifier>
       <recordContentSource>University of Tennessee, Knoxville Libraries</recordContentSource>
